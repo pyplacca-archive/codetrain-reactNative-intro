@@ -51,8 +51,6 @@ const styles = StyleSheet.create({
   title: {
     marginRight: '5%',
     width: 70,
-    borderColor: 'blue',
-    borderWidth: 1,
   },
 
   text: {
